@@ -16,8 +16,8 @@ Perfil prático, orientado à resolução de problemas, organização e aprendiz
 ---
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipeab-b&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeab-b&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
