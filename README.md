@@ -15,13 +15,6 @@ Perfil prático, orientado à resolução de problemas, organização e aprendiz
 
 ---
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipeab-b&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeab-b&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <h3 align="center">🚀 Projetos 🚀</h3>
 
 ---
@@ -54,14 +47,6 @@ Aplicação desktop desenvolvida para automatizar a geração e edição de imag
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,c,react,tailwind,css,html,figma,next,nest,flask,postgres,prisma,supabase,docker,git,github,postman,npm" />
-</p>
-
----
-
-<h3 align="center">🏆 Achievements 🏆</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=felipeab-b&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
