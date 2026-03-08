@@ -41,6 +41,16 @@ Aplicação desktop desenvolvida para automatizar a geração e edição de imag
 * **Interface Gráfica:** Ferramenta desktop voltada à usabilidade e fluxo rápido de trabalho.
 * **🛠️ Tech Stack:** `Python` `Pillow` `Tkinter`
 
+### 🔍 Vantis — Plataforma de Inteligência de Superfície de Ataque
+> *Transformando dados brutos da internet em relatórios de segurança visuais e acessíveis.*
+
+Plataforma OSINT que agrega múltiplas fontes de inteligência pública e utiliza IA para transformar dados técnicos complexos em relatórios claros e contextualizados sobre a exposição digital de IPs e domínios.
+* **Agregação de Inteligência:** Consulta paralela a Shodan, VirusTotal, IPInfo e Have I Been Pwned em uma única busca.
+* **Análise por IA:** Interpretação automática dos dados técnicos em linguagem acessível via Claude API.
+* **Relatórios Visuais:** Dashboard dark com classificação de risco, portas abertas, reputação e dados de rede.
+* **Cache Inteligente:** Resultados persistidos no MongoDB com TTL de 24h para otimizar chamadas às APIs.
+* **🛠️ Tech Stack:** `Python` `FastAPI` `MongoDB` `React` `Docker` `Anthropic` `Claude API` `Shodan API` `VirusTotal API`
+
 ---
 
 <h3 align="center">💻 Tecnologias 💻</h3>
