@@ -41,6 +41,7 @@ Aplicação desktop desenvolvida para automatizar a geração e edição de imag
 * **Interface Gráfica:** Ferramenta desktop voltada à usabilidade e fluxo rápido de trabalho.
 * **🛠️ Tech Stack:** `Python` `Pillow` `Tkinter`
 
+
 ### 🔍 Vantis — Plataforma de Inteligência de Superfície de Ataque
 > *Transformando dados brutos da internet em relatórios de segurança visuais e acessíveis.*
 
